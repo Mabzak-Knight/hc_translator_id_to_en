@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Program ada di sini: https://huggingface.co/spaces/mabzak/translator-id-to-en
